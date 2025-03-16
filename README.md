@@ -1,6 +1,6 @@
 ## Hi there, I'm Gopika 👋
 
-I have 3 years of expereince in automation testing, specializing in building robust Selenium-Cucumber frameworks to ensure high quality software.Passionate about test automation, efficiency and continuous learning.I enjoy solving real world testing challenges.Currently I am doing Masters Of Computer Engineering specialized in IOT in Germany.
+I have 3 years of experience in automation testing, specializing in building robust Selenium-Cucumber frameworks to ensure high quality software.Passionate about test automation, efficiency and continuous learning.I enjoy solving real world testing challenges.Currently I am doing Masters Of Computer Engineering specialized in IOT in Germany.
 
 
 🔍 What I Do:
