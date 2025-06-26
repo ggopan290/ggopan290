@@ -15,11 +15,11 @@ I have 3 years of experience in automation testing, specializing in building rob
 
 📌 Current Projects:
 
-🔹 Building a Cucumber-Selenium automation framework from scratch
+🔹 Building a Playwright automation framework from scratch
 
 🔍 Areas of Expertise
 
-📌 Test Automation – Building scalable frameworks using Selenium, Java, and Cucumber
+📌 Test Automation – Building scalable frameworks using Selenium,Playwright, Java, and Cucumber
 
 📌 BDD Frameworks – Implementing Cucumber with TestNG for structured testing
 
